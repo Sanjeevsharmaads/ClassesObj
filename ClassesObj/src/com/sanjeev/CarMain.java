@@ -6,8 +6,11 @@ public class CarMain {
 		// TODO Auto-generated method stub
 		Car obj = new Car();
 		Bike obj1 = new Bike();
+		Bicycle obj2 = new Bicycle();
 		obj.getValues();
 		obj1.getValues();
+		obj2.getValues();
+
 	}
 
 }
